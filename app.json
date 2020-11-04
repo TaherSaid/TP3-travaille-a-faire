@@ -1,9 +1,9 @@
 {
-  "name": "Tp3_ScrollView",
-  "displayName": "Tp3_ScrollView",
+  "name": "Tp3_travail_a_faire",
+  "displayName": "Tp3_travail_a_faire",
   "expo": {
-    "name": "Tp3_ScrollView",
-    "slug": "Tp3_ScrollView",
+    "name": "Tp3_travail_a_faire",
+    "slug": "Tp3_travail_a_faire",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
